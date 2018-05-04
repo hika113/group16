@@ -12,7 +12,7 @@ Project Board
 Jupyter Notebooks with Data Visualizations
 - Submitted through Canvas and uploaded to GitHub [Hikaru]
 
-Requirement.text
+Requirements.text
 - Uploaded to GitHub [Hikaru]
 
 Source data
@@ -21,7 +21,7 @@ Source data
 Code to obtain data
 - Uploaded to GitHub ("eBay_scraping.ipynb", "Walmart_WebAPI.ipynb", and "Flipkart_scraping.ipynb") [Hikaru]
 
-Algorithm developed in Altryx and merged data
+Algorithm developed in Alteryx and merged data
 - Uploaded to GitHub ("datamatch python_*_pro.yxmd"s and "Matched Records * Final.csv"s) [Pranshu]
 
 Mock data
