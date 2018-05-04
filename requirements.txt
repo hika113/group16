@@ -1,0 +1,31 @@
+All of the dependencies needed to build our project and who did each work are as follows:
+
+Data Files (Final version)
+- Submitted through Canvas and uploaded to GitHub (DataFinal.xlsx) [Hikaru]
+
+Presentation Deck
+- Submitted through Canvas (as a PDF file) [Hikaru and partially Pranshu]
+
+Project Board
+- Submitted through Canvas and Presented in the Presentation Deck [Hikaru]
+
+Jupyter Notebooks with Data Visualizations
+- Submitted through Canvas and uploaded to GitHub [Hikaru]
+
+Requirement.text
+- Uploaded to GitHub [Hikaru]
+
+Source data
+- Uploaded to GitHub as csv files (e.g. "walmart_clean.csv") [Hikaru]
+
+Code to obtain data
+- Uploaded to GitHub ("eBay_scraping.ipynb", "Walmart_WebAPI.ipynb", and "Flipkart_scraping.ipynb") [Hikaru]
+
+Algorithm developed in Altryx and merged data
+- Uploaded to GitHub ("datamatch python_*_pro.yxmd"s and "Matched Records * Final.csv"s) [Pranshu]
+
+Mock data
+- Submitted through Canvas (DataMockup.xlsx) [Hikaru]
+
+Pitch Deck
+- Submitted through Canvas (pitch_deck_group16.pdf) [Hikaru]
