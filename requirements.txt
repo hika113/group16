@@ -28,7 +28,7 @@ Algorithm developed in Alteryx and merged data
 - Uploaded to GitHub ("datamatch python_*_pro.yxmd"s and "Matched Records * Final.csv"s) [Pranshu]
 
 Older version of Jupyter Notebooks
-- Uploaded to GitHub ("Final_report_rev*.ipynb")
+- Uploaded to GitHub ("Final_report_rev*.ipynb") [Hikaru]
 - These files are half-wey version of the final report (so you don't need to look at or download these files when grading)
 
 Mock data
