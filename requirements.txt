@@ -11,7 +11,7 @@ Project Board
 - Submitted through Canvas and Presented in the Presentation Deck [Hikaru]
 
 Jupyter Notebooks with Data Visualizations
-- Uploaded to GitHub [Hikaru]
+- Uploaded to GitHub (Final_report_final.ipynb) [Hikaru]
 
 Requirements.text
 - Uploaded to GitHub (this file) [Hikaru]
