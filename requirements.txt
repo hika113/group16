@@ -1,7 +1,8 @@
 All of the dependencies needed to build our project and who did each work are as follows:
 
-Data Files (Final version)
+Data Files (Final workbook)
 - Submitted through Canvas and uploaded to GitHub (DataFinal.xlsx) [Hikaru]
+- You will need to download this file to run the code in our Jupyter notebook file (in part 3). 
 
 Presentation Deck
 - Submitted through Canvas (as a PDF file) [Hikaru and partially Pranshu]
@@ -10,16 +11,18 @@ Project Board
 - Submitted through Canvas and Presented in the Presentation Deck [Hikaru]
 
 Jupyter Notebooks with Data Visualizations
-- Submitted through Canvas and uploaded to GitHub [Hikaru]
-
-Requirements.text
 - Uploaded to GitHub [Hikaru]
 
-Source data
-- Uploaded to GitHub as csv files (e.g. "walmart_clean.csv") [Hikaru]
+Requirements.text
+- Uploaded to GitHub (this file) [Hikaru]
 
-Code to obtain data
+Source (raw and cleaned) data
+- Uploaded to GitHub as csv files (e.g. "walmart_clean.csv") [Hikaru]
+- These files are included in the final workbook (so you don't need to download these files when grading.)
+
+Code to extract item data from EC sites
 - Uploaded to GitHub ("eBay_scraping.ipynb", "Walmart_WebAPI.ipynb", and "Flipkart_scraping.ipynb") [Hikaru]
+- These files are sources of the final report (so you don't need to look at these files when grading.)
 
 Algorithm developed in Alteryx and merged data
 - Uploaded to GitHub ("datamatch python_*_pro.yxmd"s and "Matched Records * Final.csv"s) [Pranshu]
